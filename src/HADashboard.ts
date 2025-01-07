@@ -167,8 +167,8 @@ export class HADashboard extends LitElement {
             display: flex;
             flex-direction: row;
             width: 100%;
-            height: 100vh;
-            max-height: calc(100vh - var(--header-height));
+            height: 110vh;
+            max-height: calc(110vh);
             overflow: hidden;
           }
 
